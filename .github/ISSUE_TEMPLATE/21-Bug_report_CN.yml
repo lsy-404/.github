@@ -1,7 +1,6 @@
 name: 反馈 Bug [CN]
 description: 反馈错误或异常行为
 labels: [bug]
-title: "[Bug] (在这里简短描述你发现的问题)"
 body:
   - type: markdown
     attributes:
