@@ -1,22 +1,46 @@
-<!-- See CONTRIBUTING.md. 详见 CONTRIBUTING.md。 -->
+<!--
+Please read the contributing guidelines before submitting:
+https://github.com/lsy-404/.github/blob/main/CONTRIBUTING.md
+Pull requests that omit the required sections may be closed without review.
+-->
 
-## Why / 为什么改
+## Related issues
 
-
-
-## How to verify / 如何验证
-
-<!-- Exact steps, commands or tests, and the expected result. 具体步骤、命令或测试，以及预期结果。 -->
-
-
-
-## AI disclosure / AI 使用声明
-
-<!-- Which AI tools were used and for what, or "None". 使用了哪些 AI 工具、做了什么；未使用请填“None / 无”。 -->
+<!-- Reference related issues, e.g. "Closes #123", "Refs #456". Write "None" if not applicable. -->
 
 
 
----
+## Motivation
 
-By opening this pull request, I accept the [Contributor License Agreement](https://github.com/lsy-404/.github/blob/main/CLA.md).
-提交此 Pull Request 即表示我接受[贡献者许可协议](https://github.com/lsy-404/.github/blob/main/CLA.md)。
+<!-- Describe the problem this change addresses and why it is needed. -->
+
+
+
+## Changes
+
+<!-- Summarize the changes made. -->
+
+
+
+## Verification
+
+<!-- Provide the exact steps, commands or tests a reviewer can run to verify this change, and the expected result. -->
+
+
+
+## AI disclosure
+
+- [ ] No AI tools were used in preparing this contribution.
+- [ ] AI tools were used in preparing this contribution, as described below.
+
+<!-- If AI tools were used, state which tools and which parts of the contribution they produced or assisted with. -->
+
+
+
+## Checklist
+
+- [ ] I have read the [contributing guidelines](https://github.com/lsy-404/.github/blob/main/CONTRIBUTING.md).
+- [ ] This pull request is limited to a single, focused change.
+- [ ] The existing build and tests pass.
+- [ ] I understand and take responsibility for every change in this pull request.
+- [ ] I accept the [Contributor License Agreement](https://github.com/lsy-404/.github/blob/main/CLA.md) for this contribution.
