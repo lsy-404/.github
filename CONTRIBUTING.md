@@ -15,18 +15,24 @@ This guide applies to every repository of this account that does not have its ow
 
 ### Pull requests
 
-1. Fork the repository and create a branch from the default branch.
-2. Keep each pull request focused on one change, and follow the existing code style.
-3. Describe what changed and why, and link the related issue if there is one.
-4. Make sure the project's existing build and tests still pass.
+Pull requests are welcome. If a repository has pull requests enabled, it accepts contributions — no need to ask first.
 
-For larger changes, open an issue first so the approach can be agreed on before you spend time on it.
+Every pull request must include:
 
-### Licensing
+1. **Why.** Explain the problem or motivation behind the change, not only what changed. Link the related issue if there is one.
+2. **How to verify.** The change must be reliably verifiable. Give the exact steps, commands or tests a reviewer can run, and the expected result. Existing builds and tests must still pass.
+3. **AI disclosure.** If you used AI tools (code generation, agents, chat assistants, etc.), say which ones and what they did. AI-assisted contributions are very welcome; the disclosure is required. You remain responsible for understanding and standing behind every line you submit.
 
-By contributing, you agree that your contribution is licensed under the license of the repository you contribute to, as described in section D.6 of the [GitHub Terms of Service](https://docs.github.com/en/site-policy/github-terms/github-terms-of-service). No CLA or sign-off is required.
+Also:
 
-If a repository has no license file, open an issue before sending a pull request.
+- Keep each pull request focused on one change, and follow the existing code style.
+- For larger changes, consider opening an issue first so the approach can be agreed on before you spend time on it.
+
+Pull requests missing the explanation, the verification steps or a required AI disclosure may be closed without review.
+
+### Contributor License Agreement
+
+**Opening a pull request means you accept the [Contributor License Agreement](https://github.com/lsy-404/.github/blob/main/CLA.md)** for that contribution. No separate signature is needed.
 
 ### Support
 
@@ -41,18 +47,24 @@ If these projects help you, you can support them through the **Sponsor** button 
 
 ### Pull Request
 
-1. Fork 仓库，从默认分支新建分支。
-2. 每个 Pull Request 只做一件事，并遵循现有代码风格。
-3. 说明改了什么、为什么改；有相关 Issue 时请关联。
-4. 确认项目现有的构建和测试仍然通过。
+非常欢迎 Pull Request。只要仓库开启了 Pull Request 功能，就表示欢迎贡献，无需事先询问。
 
-较大的改动请先开 Issue，商定方案后再动手。
+每个 Pull Request 必须写明：
 
-### 许可
+1. **为什么改。** 说明改动要解决的问题或动机，而不只是改了什么；有相关 Issue 时请关联。
+2. **如何验证。** 改动必须能被可靠地验证。写出审阅者可以照做的具体步骤、命令或测试，以及预期结果；项目现有的构建和测试仍须通过。
+3. **AI 使用声明。** 如果使用了 AI 工具（代码生成、Agent、对话助手等），请注明用了哪些、做了哪些部分。非常欢迎 AI 参与的贡献，但声明是必要的。你仍需理解并对提交的每一行负责。
 
-提交贡献即表示你同意按所贡献仓库的许可证授权你的贡献，依据见 [GitHub 服务条款](https://docs.github.com/en/site-policy/github-terms/github-terms-of-service) 第 D.6 节。无需签署 CLA，也无需 sign-off。
+此外：
 
-如果仓库没有许可证文件，请先开 Issue 再提交 Pull Request。
+- 每个 Pull Request 只做一件事，并遵循现有代码风格。
+- 较大的改动可以先开 Issue，商定方案后再动手。
+
+缺少改动理由、验证方式或应有的 AI 声明的 Pull Request 可能会被直接关闭。
+
+### 贡献者许可协议（CLA）
+
+**提交 Pull Request 即表示你就该贡献接受[贡献者许可协议](https://github.com/lsy-404/.github/blob/main/CLA.md)**，无需另行签署。
 
 ### 支持
 
