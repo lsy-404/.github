@@ -29,7 +29,7 @@ You represent that:
 
 1. You are legally entitled to grant the licenses above. If Your employer or another party has rights in Your Contribution, You have obtained permission to make it on their behalf, or they have waived such rights.
 2. Each Contribution is Your original creation, or You clearly identify in the submission any part that is not, including its source, license and any restrictions You know of.
-3. You have disclosed in the submission whether and how AI tools were used to produce the Contribution, and, to the best of Your knowledge, the Contribution does not infringe the rights of any third party.
+3. You have disclosed in the submission whether AI tools were used to produce the Contribution, and, to the best of Your knowledge, the Contribution does not infringe the rights of any third party.
 
 ### 5. Your rights
 
@@ -62,7 +62,7 @@ Unless required by law or agreed in writing, You provide Your Contributions "as 
 
 1. 你在法律上有权授予上述许可。如果你的雇主或其他方对你的贡献享有权利，你已获得其许可代为提交，或对方已放弃相关权利。
 2. 每项贡献均为你的原创；如有非原创部分，你已在提交中明确标注其来源、许可证及你所知的任何限制。
-3. 你已在提交中说明是否以及如何使用 AI 工具生成该贡献，并且据你所知，该贡献不侵犯任何第三方的权利。
+3. 你已在提交中说明是否使用 AI 工具生成该贡献，并且据你所知，该贡献不侵犯任何第三方的权利。
 
 ### 5. 你的权利
 

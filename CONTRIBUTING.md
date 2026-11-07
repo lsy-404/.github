@@ -21,7 +21,7 @@ Every pull request must include:
 
 1. **Why.** Explain the problem or motivation behind the change, not only what changed. Link the related issue if there is one.
 2. **How to verify.** The change must be reliably verifiable. Give the exact steps, commands or tests a reviewer can run, and the expected result. Existing builds and tests must still pass.
-3. **AI disclosure.** If you used AI tools (code generation, agents, chat assistants, etc.), say which ones and what they did. AI-assisted contributions are very welcome; the disclosure is required. You remain responsible for understanding and standing behind every line you submit.
+3. **AI disclosure.** If you used AI tools (code generation, agents, chat assistants, etc.), check the AI disclosure box in the pull request. AI-assisted contributions are very welcome; the disclosure is required. You remain responsible for understanding and standing behind every line you submit.
 
 Also:
 
@@ -53,7 +53,7 @@ If these projects help you, you can support them through the **Sponsor** button 
 
 1. **为什么改。** 说明改动要解决的问题或动机，而不只是改了什么；有相关 Issue 时请关联。
 2. **如何验证。** 改动必须能被可靠地验证。写出审阅者可以照做的具体步骤、命令或测试，以及预期结果；项目现有的构建和测试仍须通过。
-3. **AI 使用声明。** 如果使用了 AI 工具（代码生成、Agent、对话助手等），请注明用了哪些、做了哪些部分。非常欢迎 AI 参与的贡献，但声明是必要的。你仍需理解并对提交的每一行负责。
+3. **AI 使用声明。** 如果使用了 AI 工具（代码生成、Agent、对话助手等），请在 Pull Request 中勾选 AI 使用声明。非常欢迎 AI 参与的贡献，但声明是必要的。你仍需理解并对提交的每一行负责。
 
 此外：
 
